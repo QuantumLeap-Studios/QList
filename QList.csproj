@@ -5,6 +5,26 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageProjectUrl>https://quantumleapstudios.org/qlist/</PackageProjectUrl>
+    <Copyright>QuantumLeap Studios</Copyright>
+    <Description>A JSON-inspired, list-oriented programming language made in C#.</Description>
+    <PackageIcon>Media/qlistico.png</PackageIcon>
+	<PackageId>QuantumLeapStudios.QList</PackageId>
+    <Title>QuantumLeapStudios.QList</Title>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/QuantumLeap-Studios/QList</RepositoryUrl>
+    <RepositoryType></RepositoryType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Media\qlistico.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
