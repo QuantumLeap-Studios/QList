@@ -1,4 +1,4 @@
-# QList
+![QList Logo](https://raw.githubusercontent.com/QuantumLeap-Studios/QList/master/Media/qlist.png)
 
 QList is a lightweight C# library for serializing and parsing structured data using a custom, human-readable format. It provides three main components:
 
