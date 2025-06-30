@@ -14,6 +14,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/QuantumLeap-Studios/QList</RepositoryUrl>
     <RepositoryType></RepositoryType>
+	<Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
